@@ -22,7 +22,7 @@ Junior Systems Developer at **Rede Compras**. I build internal systems end to en
 
 <sub>Projetos sobre cenários hipotéticos, com dados 100% sintéticos. · <i>Hypothetical scenarios with fully synthetic data.</i></sub>
 
-Também: [GestureHero](https://github.com/DerickxP/GestureHero) (jogo por gestos com visão computacional) · [Wall-E](https://github.com/DerickxP/Wall-e-Robot) (robô seguidor de linha, ENTEC UNINASSAU 2025) · [CloudTerm](https://github.com/DerickxP/CloudTerm) (monitoramento de infraestrutura em Next.js)
+Também: [GestureHero](https://github.com/DerickxP/GestureHero) (jogo por gestos com visão computacional) · [Wall-E](https://github.com/DerickxP/Wall-e-Robot) (robô seguidor de linha, ENTEC UNINASSAU 2025)
 
 ### Stack
 
