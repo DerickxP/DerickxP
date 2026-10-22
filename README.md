@@ -24,6 +24,18 @@ I am committed to continually improving my technical abilities and open to oppor
 
 ---
 
+### Projetos em destaque · Featured projects
+
+| Projeto | Stack | Resumo |
+|---|---|---|
+| [**dock-unloading-cost**](https://github.com/DerickxP/dock-unloading-cost) | NestJS · Prisma · PostgreSQL · Angular · Docker | Custo de descarga de NF-e por loja no centro de distribuição: leitura de XML e DANFE em PDF, cascata de embalagens e fechamento em planilha. *Unloading cost per store from NF-e XML/PDF invoices.* |
+| [**on-demand-staffing-analytics**](https://github.com/DerickxP/on-demand-staffing-analytics) | Python · pandas · SQLite | Custo de mão de obra sob demanda versus faturamento por loja, com ETL e dashboard de cinco visões. *On-demand labor cost vs. revenue per store.* |
+| [**uber-business-reports-automation**](https://github.com/DerickxP/uber-business-reports-automation) | Python · Playwright · SQLite | Download automatizado de relatórios do Uber for Business, ETL idempotente e dashboard HTML interativo. *Automated Uber for Business reporting pipeline.* |
+
+<sub>Reconstruções com dados sintéticos de sistemas que desenvolvi profissionalmente. · <i>Rebuilt with synthetic data from systems I built professionally.</i></sub>
+
+---
+
 ### Stacks
 
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
