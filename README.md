@@ -16,12 +16,12 @@ Junior Systems Developer at **Rede Compras**. I build internal systems end to en
 
 | Projeto | Stack | Resumo |
 |---|---|---|
+| [**Learn Quest**](https://github.com/DerickxP/Learn-Quest-Serious-Game) | Unity · C# · OpenAI · Google Cloud Speech | Jogo educativo 2D para crianças com Síndrome de Down, com desafios gerados por IA e avaliação de pronúncia por reconhecimento de fala (TCC, UniFacisa). *AI-powered educational game for children with Down syndrome.* |
 | [**dock-unloading-cost**](https://github.com/DerickxP/dock-unloading-cost) | NestJS · Prisma · PostgreSQL · Angular · Docker | Custo de descarga de NF-e por loja no centro de distribuição: leitura de XML e DANFE em PDF, cascata de embalagens e fechamento em planilha. *Unloading cost per store from NF-e XML/PDF invoices.* |
 | [**on-demand-staffing-analytics**](https://github.com/DerickxP/on-demand-staffing-analytics) | Python · pandas · SQLite | Custo de mão de obra sob demanda versus faturamento por loja, com ETL e dashboard de cinco visões. *On-demand labor cost vs. revenue per store.* |
 | [**uber-business-reports-automation**](https://github.com/DerickxP/uber-business-reports-automation) | Python · Playwright · SQLite | Download automatizado de relatórios do Uber for Business, ETL idempotente e dashboard HTML interativo. *Automated Uber for Business reporting pipeline.* |
-| [**Learn Quest**](https://github.com/DerickxP/Learn-Quest-Serious-Game) | Unity · C# · OpenAI · Google Cloud Speech | Jogo educativo 2D para crianças com Síndrome de Down, com desafios gerados por IA e avaliação de pronúncia por reconhecimento de fala (TCC, UniFacisa). *AI-powered educational game for children with Down syndrome.* |
 
-<sub>Os três primeiros projetos tratam de cenários hipotéticos, com dados 100% sintéticos. · <i>The first three projects use hypothetical scenarios with fully synthetic data.</i></sub>
+<sub>Com exceção do Learn Quest, os projetos tratam de cenários hipotéticos, com dados 100% sintéticos. · <i>Except for Learn Quest, projects use hypothetical scenarios with fully synthetic data.</i></sub>
 
 Também: [GestureHero](https://github.com/DerickxP/GestureHero) (jogo por gestos com visão computacional) · [Wall-E](https://github.com/DerickxP/Wall-e-Robot) (robô seguidor de linha, ENTEC UNINASSAU 2025)
 
