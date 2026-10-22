@@ -21,7 +21,7 @@ Junior Systems Developer at **Rede Compras**. I build internal systems end to en
 | [**on-demand-staffing-analytics**](https://github.com/DerickxP/on-demand-staffing-analytics) | Python · pandas · SQLite | Custo de mão de obra sob demanda versus faturamento por loja, com ETL e dashboard de cinco visões. *On-demand labor cost vs. revenue per store.* |
 | [**uber-business-reports-automation**](https://github.com/DerickxP/uber-business-reports-automation) | Python · Playwright · SQLite | Download automatizado de relatórios do Uber for Business, ETL idempotente e dashboard HTML interativo. *Automated Uber for Business reporting pipeline.* |
 
-<sub>Com exceção do Learn Quest, os projetos tratam de cenários hipotéticos, com dados 100% sintéticos. · <i>Except for Learn Quest, projects use hypothetical scenarios with fully synthetic data.</i></sub>
+<sub>Projetos sobre cenários hipotéticos, com dados 100% sintéticos. O Learn Quest é a exceção: é o meu TCC em Jogos Digitais (UniFacisa, 2024). · <i>Hypothetical scenarios with fully synthetic data. Learn Quest is the exception: it is my undergraduate thesis project in Digital Games (UniFacisa, 2024).</i></sub>
 
 Também: [GestureHero](https://github.com/DerickxP/GestureHero) (jogo por gestos com visão computacional) · [Wall-E](https://github.com/DerickxP/Wall-e-Robot) (robô seguidor de linha, ENTEC UNINASSAU 2025)
 
