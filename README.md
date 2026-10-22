@@ -32,7 +32,7 @@ I am committed to continually improving my technical abilities and open to oppor
 | [**on-demand-staffing-analytics**](https://github.com/DerickxP/on-demand-staffing-analytics) | Python · pandas · SQLite | Custo de mão de obra sob demanda versus faturamento por loja, com ETL e dashboard de cinco visões. *On-demand labor cost vs. revenue per store.* |
 | [**uber-business-reports-automation**](https://github.com/DerickxP/uber-business-reports-automation) | Python · Playwright · SQLite | Download automatizado de relatórios do Uber for Business, ETL idempotente e dashboard HTML interativo. *Automated Uber for Business reporting pipeline.* |
 
-<sub>Reconstruções com dados sintéticos de sistemas que desenvolvi profissionalmente. · <i>Rebuilt with synthetic data from systems I built professionally.</i></sub>
+<sub>Projetos sobre cenários hipotéticos, com dados 100% sintéticos. · <i>Hypothetical scenarios with fully synthetic data.</i></sub>
 
 ---
 
